@@ -2,10 +2,6 @@
 
 Construisez votre propre hamburger en utilisant des fichiers texte pour chaque couche.
 
-## # **Bienvenur chez GitBurger**
-
-Construisez votre propre hamburger en utilisant des fichiers texte pour chaque couche.
-
 ## **Ingrédients disponibles**
 
 - 🥯 Pain haut : Pain brioché avec des graines de sésame sur le dessus.
